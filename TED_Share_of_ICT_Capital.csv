@@ -1,0 +1,129 @@
+﻿"Total Economy Database™ - Growth Accounting and Total Factor Productivity, 1950-2016 (Adjusted version)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"For more information please refer to the 'CONTENTS' sheet, or the Total Economy Database website.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Please cite the data as follows: The Conference Board Total Economy Database™ (Adjusted version), November 2017",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+REGION,ISO,COUNTRY,NR,INDICATOR,MEASURE,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016
+Africa,DZA,Algeria,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,1.3,1,3.4,1.1,1.2,1.5,1.7,1.5,1.4,1.4,1.5,1.4,1.3,1.2,1.4,1,1,1.1,1.1,0.7,0.9,0.9,1,1,0.9,0.9,1,1,1,0.9,0.8,0.9,0.9,1,1,0.8
+Africa,AGO,Angola,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,1.2,1.1,1.3,1,0.9,2,0.9,1.2,0.7,0.7,0.4,0.4,1.5,1.8,1.4,2.4,2.5,3,3.2,1.8,2.2,2.2,3.4,2.5,1.9,1.5,1.5,1.9,2.3,2,2.8,3.1,2.7,3,2.9,2.1
+Africa,BFA,Burkina Faso,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.7,0.8,1,1.8,2.7,3.5,3.9,4,3.9,3.8
+Africa,CMR,Cameroon,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,2.6,1.9,1.9,1.2,0.6,1.8,1.5,0,1.2,1.4,1.6,1.3,1.5,1.4,1.6,1.5,1.4,1.4,1.6,1.6,1.7,1.7,1.8,1.8,1.7,1.9,1.9,2.1,2,2.1,2.3,2.6,2.7,3.3,3.4,3.5
+Africa,CIV,Côte d'Ivoire,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Africa,COD,DR Congo,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Africa,EGY,Egypt,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,2.2,1.8,2.1,1.8,1.8,1.9,2.2,2.2,1.5,1.7,2,2.2,2.4,2.4,2.9,2.9,3,2.9,2.9,2.7,2.6,2.7,2.9,2.8,2.6,2.7,2.9,2.9,2.6,2.4,2.5,2.7,2.7,2.8,2.9,2.9
+Africa,ETH,Ethiopia,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Africa,GHA,Ghana,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Africa,KEN,Kenya,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,2.9,2.3,2.2,2.5,2.6,2.4,2.1,1.8,1.6,2.2,1.9,3.3,1.8,1.2,2.8,4.1
+Africa,MDG,Madagascar,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Africa,MWI,Malawi,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,1.6,1.4,1.5,1.3,1.3,1.5,1.6,1.9,1.7,1.9,1.4,1.7,1.4,1.4,1.4,1.2,1.1,1.2,1.4,1.2,1.4,1.3,1.6,1.3,1.4,1.3,2.2,2.2,2.6,3,2.7,2.5,2.2,2,1.9,1.8
+Africa,MLI,Mali,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,5.3,4.3,4.4,3.4,3.1,2.9,2.8,2.3,1.8,1.6,1.4,1.3,1,1,1.4,1.5,1.6,1.5,1.5,1.5,1.4,1.3,1.5,1.4,1.3,1.4,1.5,1.5,1.4,1.3,1.2,1.2,1.1,1.1,1,0.8
+Africa,MAR,Morocco,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,2.3,1.7,2.1,0.5,2.5,1.3,1.2,1.5,1.5,1.5,1.6,1.6,1.5,1.8,1.5,1.6,1.5,1.1,2,2.5,2.1,2.3,2.5,2.5,2.4,2.2,2.7,3.2,3.1,3.2,4,3.9,3.9,4.2,3.2,4.1
+Africa,MOZ,Mozambique,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Africa,NER,Niger,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,0.6,0.5,0.3,0.2,0.5,0.3,0.7,0.6,0.5,0.5,0.5,0.2,0.4,0.2,0.5,0.5,0.4,0.5,0.6,0.5,0.2,0.5,0.5,0.5,0.6,0.9,1.1,1.3,2,2.1,3.3,3.3,3,3.3,3.2,2.3
+Africa,NGA,Nigeria,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Africa,SEN,Senegal,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Africa,ZAF,South Africa,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,1.1,1,1,1.1,1.3,1.1,1.1,1.6,1.6,1.3,1.4,1.3,1.3,1.3,1.3,1.5,1.6,1.7,1.9,1.7,1.6,1.5,1.7,1.9,1.9,1.9,2,1.9,2.1,1.7,1.5,1.5,1.5,1.8,1.8,2.1,2
+Africa,SDN,Sudan,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Africa,TZA,Tanzania,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,4.3,1.2,2.1,2.1,2.7,0,0.2,0.1,0.1,0.8,0.4,0.2,0.1,0.3,0.6,0.6,0.5,0.3,0.2,0.1,0.2,0.3,0.2,0.2,0.3,0.3,1.2,1.4,1.9,1.3,3.2,3.8,3.2,4.2,4.2,3.5
+Africa,TUN,Tunisia,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,2.8,2.4,2.8,2.4,2.4,2.6,2.9,2.7,2.6,2.7,2.8,2.7,2.6,2.4,2.6,2.3,2.1,1.8,2.2,1.5,2.1,1.8,2.3,1.9,2.1,1.9,1.9,2,2.9,2.2,3.1,2.2,2.2,2.5,2.6,2.5
+Africa,UGA,Uganda,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7,3.1,3.3,3.1,2.3,2.2,1.8,1.7
+Africa,ZMB,Zambia,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,1.7,0.9,1.6,0.5,0.2,0.2,1.4,1.1,1.9,0.7,1.2,0.6,0.2,0.4,0.3,0.2,0.5,0.5,0.7,0.4,0.4,0.6,0.6,0.6,0.4,0.4,0.5,0.7,0.8,0.8,1.1,1.2,1.2,1.4,1.6,1.7
+Africa,ZWE,Zimbabwe,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,3.8,4.2,4.5,4.1,4.4,5.3,5.8,4.8,5.8,4.6,4,3.8,2.3,2.8,2.7,2.7
+Asia,BGD,Bangladesh,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,1,1.1,1,0.9,0.9,0.9,1,1,1,1.1,1.2,1.3,1.4,1.5,1.6,2,2.4,2.8,2.8,3.1,4.1,5.5,6.3,8.7,8.1,8.4
+Asia,KHM,Cambodia,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,0.2,0.2,0.2,0,0.4,0.3,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.5,0.6,0.9,1.7,3,3.2,3.5,3.6,3.5,3.9,3.9,3.5
+Asia,CHN2,China (Alternative),15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,0.8,0.9,0.9,0.9,1.1,1.2,1.3,1.7,2.2,2.4,2.6,3.1,3.5,3.6,3.4,3.5,3.4,3.3,3.1,2.7,2.5,2.3,2,2,1.9,1.8
+Asia,CHN,China (Official),15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,1.1,1,1,0.9,1.2,1.5,1.4,2,2.5,2.7,2.9,3.2,1,4.9,4,4.3,2.9,2.9,3.1,2.8,2.6,2.3,2,2,1.9,1.7
+Asia,HKG,Hong Kong,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,5.3,5.8,5.6,5.3,3.8,5.8,5,3.9,3.5,3.4,3.5,4.3,4.3,3.9,4.7,4.4,4.6,5,3.9,3.8,5.1,4.6,7.6,4.9,4.5,4.4
+Asia,IND,India,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,0.3,0.3,0.4,0.6,0.7,0.8,0.9,1.1,1.2,1.3,1.6,2.1,2.5,2.8,3,3.3,3,3.7,3.2,3.2,2.7,2.5,2.7,2.8,2.7,3,3.9,4.5,5.1,4.7,4.8,4.6,4.7,4.2,3.8,3.8,3.5
+Asia,IDN,Indonesia,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,15,10.2,8.1,5.1,12.1,10.4,9.8,1.4,7.8,7.2,7.4,7.4,6.3,4.4,4.6,5.7,5.2,4.9,4.7,4.8,4.2,5,4.3,4.2
+Asia,JPN,Japan,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,2.1,2.3,2.2,2.3,3.1,2.9,2.7,2.9,4,4,4.1,4.4,4.2,4.1,4.4,4.6,5,5.5,5.2,5.1,4.8,4.8,4.7,5,5.1,4.8,4.9,4.9,5.1,4.5,4.4,4.6,4.3,4,4.1,3.8,3.8
+Asia,MYS,Malaysia,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,3,2.9,3.4,3.3,3.7,4.2,4.4,4.3,4.1,4.3,4.2,4.3,4.2,4.2,4.7,4.8,5,5.8,6.5,6.6,6.4,7,7.8,8.1,7.6,8.2,8.5,8.5,7.8,7.7,7.7,7.3,6.4,6.2,6.1,6
+Asia,MMR,Myanmar,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Asia,PAK,Pakistan,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,0.4,0.4,0.5,0.5,0.5,0.6,0.5,0.5,0.6,0.6,0.7,0.8,0.8,0.9,1.1,1.1
+Asia,PHL,Philippines,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,2.2,1.9,2.2,2.7,2.6,5.2,6.5,5.5,6.9,6.1,5.5,5.2,3.2,6.6,7.6,6.9,5.9,5.3,5.3,5.1,5,5.3,5.7,6,4.6,4.4,4.6,4.9,3.4,3.2,3.1,3.2,2.5,2.5,2.4,3.1
+Asia,SGP,Singapore,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,8.1,8.2,8.9,8.7,7.8,6.7,6.7,5.5,6.1,7.3,7.5,7.5,7.1,6.5,7,5.6,4.6,4.1,5.1,5.1,5.7,5.6,5,5
+Asia,KOR,South Korea,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,6.6,5.2,4.1,4.8,5.1,4.6,5,6.4,6.9,7,6.1,6.3,6,5.2,5.5,7,7.3,7.8,6.4,7.6,7.2,7.4,7.8,7.4,7.1,6.9,7.4,7.2,6.9,5.5,7.4,7.1,6.8,6.7,6.7,6.1,5.9
+Asia,LKA,Sri Lanka,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,0.2,0.4,0.3,0.3,0.3,0.3,0.4,0.4,0,0.6,0.5,0.7,0.7,0.7,0.7
+Asia,TWN,Taiwan,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,2.7,2.1,2.5,2,1.8,1.9,2.3,2.4,2.2,2.3,2.3,3.3,2.7,2.3,2.9,3.4,3.7,3.6,4.3,4.3,4.3,5.1,5.6,6.3,5,5.4,5.2,5.4,3.5,4.5,4.4,4.2,4.3,3.9,3.8,3.5
+Asia,THA,Thailand,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,10.8,8.9,7.8,8.2,9.2,9.4,7.6,7.5,9.7,5.4,5.4,9.1,8.5,8,6.3,8.6,8.5,8.6,6.2,6.8,7.8,8.3,7,6.5,6.6,6.8
+Asia,VNM,Vietnam,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,0.5,0.4,0.5,0.5,0.5,0.5,0.5,0.6,0.5,0.5,0.6,0.5,0.5,0.5,0.5,0.6,0.9,1.6,2.2,2.4,2.7,3.1,3.4,3.3,3.2,3.2,3.1,3.1,3,3,3.5,4.1,4.5,5.2,5.4,4.6
+Central and Eastern Europe and Central Asia,ALB,Albania,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Central and Eastern Europe and Central Asia,ARM,Armenia,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Central and Eastern Europe and Central Asia,AZE,Azerbaijan,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Central and Eastern Europe and Central Asia,BLR,Belarus,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Central and Eastern Europe and Central Asia,BIH,Bosnia & Herzegovina,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Central and Eastern Europe and Central Asia,BGR,Bulgaria,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,0.8,1,0.9,1.4,1.3,2.3,0.3,2.6,1.9,2.5,3.5,3.1,2.7,2.6,2.2,2.5,3.3,3.1,2.7,2.7,2.7,2.8,2.4,2,1.7,1.3
+Central and Eastern Europe and Central Asia,HRV,Croatia,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,0.9,1,1.3,1.2,1.7,1.9,2.4,2.2,2.4,2.2,2.4,2.5,3,3.3,3.3,3.7,3.7,3.9,3.6,3.7,3.7,3.8,3.6,3.6,3.5,3.4
+Central and Eastern Europe and Central Asia,CZE,Czech Republic,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,3.9,4.7,4.7,5.5,5,5,5.5,5.2,4.6,4.5,4.2,4.5,4.1,4.5,4.6,4.7,4.7,5.1,4.4,4.3,4.7,4.6,4.5,4.4,4.5,4.7
+Central and Eastern Europe and Central Asia,EST,Estonia,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,1.6,2.2,2.1,1.8,6.2,1.3,2.5,1.5,2.7,1.9,2.9,2.9,2.6,2.8,2.6,3.4,3,2.2,2.4,2.3,3.1,3.3,3.3,2.7,2.6,2.4
+Central and Eastern Europe and Central Asia,GEO,Georgia,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,1.2,0.5,2.3,2.1,0.2,0.1,1.2,0.8,1.6,1.4,1.2,1.2,1.2,1.5,1.7,2.4,3,3.4,2.7,2.6,2.7,2.7,2.5,2.9,2.6,2.4
+Central and Eastern Europe and Central Asia,HUN,Hungary,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,0.7,1.1,1.3,1.4,1.4,1.2,1.7,1.7,1.8,1.8,1.9,1.8,1.9,1.9,2.2,2.2,1.9,1.9,1.8,1.6,1.8,2,1.9,1.6
+Central and Eastern Europe and Central Asia,KAZ,Kazakhstan,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Central and Eastern Europe and Central Asia,KGZ,Kyrgyz Republic,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Central and Eastern Europe and Central Asia,LVA,Latvia,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,0.3,1.7,1.9,2.9,0.9,1.3,2.3,2.2,2.3,2.6,3.1,3.1,1.8,0.3,1.3,2,1.7,1.7,1.7,1.4,1.8
+Central and Eastern Europe and Central Asia,LTU,Lithuania,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,0.5,0.7,0.9,0.9,0,1.6,2.1,2.6,3,2.6,2.2,2.9,3,3.9,3.1,3.6,3.7,3.2,1.8,2.5,3.4,3.4,3.2,3.1,3,2.8
+Central and Eastern Europe and Central Asia,MKD,Macedonia,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Central and Eastern Europe and Central Asia,MDA,Moldova,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Central and Eastern Europe and Central Asia,POL,Poland,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,1.9,2.1,2.1,2.4,2.5,2.8,2.9,2.8,2.7,2.6,3,3.6,3.1,3.2,3.5,3.6,2.9,3,2.9,2.8,2.5,2.6,2.5,2.4
+Central and Eastern Europe and Central Asia,ROU,Romania,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,0.4,1,1.7,1.6,2.2,2.5,2.9,1.9,1.9,2.6,3.5,7.9,3.9,3.6,4.2,4.6,4.4,4.3,5.5,3.7,2,3.3,3.9,3.7
+Central and Eastern Europe and Central Asia,RUS,Russian Federation,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,0.1,0.2,0.2,0.2,2,1.5,1.7,1.3,1.6,1.3,1.7,1.9,1.7,1,1.4,1.3,1.4,1.1,1.1,1.1,1.1
+Central and Eastern Europe and Central Asia,SRB,Serbia & Montenegro,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,1,1.4,1.2,1.3,1.3,1.7,0.4,0.4,0.4,1.4,1.1,1.6,1.8,1.9,1.8,2.5,3,2.5,1.3,1.9,2.3,1.9,2.4,2.8,2.5,2.6
+Central and Eastern Europe and Central Asia,SVK,Slovak Republic,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,1.1,1.6,0.8,1.7,2.1,0.3,3.5,2.9,2.7,2.2,2.5,2.8,3.1,3.3,3.2,3.3,3.3,3.7,3.1,3.3,2.9,2.6,2.3,2.2,2.3,2.2
+Central and Eastern Europe and Central Asia,SVN,Slovenia,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,2.2,2.6,4.4,4.6,4.8,3.4,3.5,3.2,3.4,3.2,3.2,3.2,3.4,3.5,3.2,3.3,3.3,3.1,2.6,2.6,2.6,2.4,2.3,2.2,2.1,2.2
+Central and Eastern Europe and Central Asia,TJK,Tajikistan,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,0.1,0.2,0.2,0.4,0.7,0.2,0.2,0.5,0.5,0.5,0.1,0.3,0.2,0.4,0.4,0.6,0.8,0.8,0.7,0.3,0.6,0.6,0.4,0.3,0.4,0.3
+Central and Eastern Europe and Central Asia,TUR,Turkey,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,1.6,0.9,1.4,2.1,2.4,2.1,2.4,2.7,2.5,2.9,3.7,4.1,3.7,3.3,3.4,3.4,2.1,3.1,3.1,2.7,2.6,2.5,2.4,2.3
+Central and Eastern Europe and Central Asia,TKM,Turkmenistan,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,0.6,0.8,0.3,0.8,0.7,0.7,0.6,0.6,0.5,0.6,0.5,0.4,0.4,0.4,0.4,0.5,0.5,0.6,0.6,0.6,0.7,0.7,0.7
+Central and Eastern Europe and Central Asia,UKR,Ukraine,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,3.2,1.8,1,2.7,1.3,2.4,1.5,2.5,3.2,3,3.5,3.1,2.9,0.4,0.6,0.6
+Central and Eastern Europe and Central Asia,UZB,Uzbekistan,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,0.1,0.1,0.2,0.2,0.4,0.6,0.8,1,0.6,0.4,0.7,0.9,1,1.2,1.1,1.2,1.1,1.3,1.4,1.3,1.4,1.5,1.6,1.7,1.8,1.7
+Latin America,ARG,Argentina,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,2.6,2.6,2.4,3.1,2.4,2.5,2.7,2.9,2.5,2.2,0.3,2.7,1.9,1.5,1.2,1.1,0.8,0.6,0.6,0.6,0.5,0.4,0.4,0.4,0.3
+Latin America,BRB,Barbados,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Latin America,BOL,Bolivia,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,1.2,0.1,0.3,0.5,1.2,2.4,1.9,1.5,1.5,1.8,1.9,2.3,2.5,2.2,2.4,2.3,2.7,2.8,2.9,2.7,2.9,3.4,3.5,3.1,2.7,3,2.4,3.4,3,2.3,2.8,2.5,2.3,2.4,2.6,2.6
+Latin America,BRA,Brazil,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,1.3,1.5,1.5,1.5,1.6,1.6,1.6,1.6,1.7,1.6,1.5,1.5,1.5,1.6,1.5,3.6,1.4,1.8,1.2,1.9,1.5,1.5
+Latin America,CHL,Chile,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,2.5,2,1.4,1.8,2,1,1.3,2.5,1.9,2.7,3,2.6,2.8,3,3.8,3.3,3.6,3.8,3.7,3.5,3.7,3.6,3.8,3.9,4.2,3.8,3.9,3.8,3.8,3.2,3.3,3,2.9,3.1,2.9,2.6,2.4
+Latin America,COL,Colombia,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,1.7,1.2,1.1,1.1,1.1,1,1.3,1.6,1.8,1.6,1.7,2,1.5,1.5,1.7,1.6,1.2,1.4,1.5,1.6,1.4,1.4,0.7,1.5
+Latin America,CRI,Costa Rica,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,0.6,0.4,0.5,0.6,0.5,0.7,0.9,1.1,1.1,1.3,1.2,1.1,1.4,1.5,1.6,1.8,1.9,2.4,3,3.1,3,3.2,3.7,3.5,3.8,3.6,3.5,3.1,2.7,2.3,2,2.1,2.1,1.7,2.2,2.3,2.1
+Latin America,DOM,Dominican Republic,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,1.6,2.4,2.6,0.2,4.2,3.4,1.9,2.7,2.6,1.1,2.1,1.3,1,0.7,0.7,0.7,0.7,0.7,0.8,0.7,0.7,1,0.9,1.6,0.6,0.4,0.6,0.8,0.8,1,1.2,1.3,1.2,1.3,1.3,1.3
+Latin America,ECU,Ecuador,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,3.2,2.5,0.9,1.8,2.1,3,2.8,4.2,3.3,3.3,3,3.1,2.8,2,2.2,2,2.5,2.3,2.4,2.2,2.4,1.7,1.7,1.9,1.7,1.8,1.4,1.8,1.6,1.3,1.7,1.6,1.7,1.7,1.6,1.6
+Latin America,GTM,Guatemala,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,3.5,3.1,3.2,2.5,1.1,3,3.5,4,3.6,3,3.3,3.4,3.4,3.2,3.3,3.2,3.4,3.4,3.8,4.5,6.8,3.5,3.5,3.6,2.9,3.1,3,3,2.1,1.8,1.9,1.7,1.2,1.1,0.9,0.8
+Latin America,JAM,Jamaica,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,0.4,0.4,0.6,0.7,0.8,0.8,0.8,0.7,0.7,0.7,0.9,0.9,0.9,0.8,0.9,0.8,0.9,1,1.3,1.5,1.6,1.7,1.8,1.7,1.4,1.4,1.4,1.4,1.4,1.3,1.4,1.5,1.4,1.8,1.8,1.9
+Latin America,MEX,Mexico,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,1.1,1,1,1,1,1,1.4,1.5,1.5,1.6,1.5,1.6,2,1.6,1.5,1.6,1.6,1.5,1.2,1.6,1.5,1.3,1.3,1.3,1.1,1.7
+Latin America,PER,Peru,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,13.7,14.7,21.7,11.4,19.4,8.7,10.8,12.9,9.1,21.8,16.4,7.4,6,2.9,4.5,3.3,3.4,3.5,3,3.1,3,2.6,2.4,2.3,1.8,1.8,1.8,1.6,1.3,1.5,1.5,1.6,1.5,1.7,1.6,1.7
+Latin America,LCA,St. Lucia,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,0.7,0.5,1.6,0.6,0.7,0.9,1.4,0.9,2,0.7,2.5,2.1,0.3,2.1,2,3.8,3.6,2.8,4,2.9,2.4,4.9,3.4,1.2,3.5,1.8,5.4,0.2,3.9,3.4,3.1,2.9,2.4,2.3,1.9,1.8
+Latin America,TTO,Trinidad & Tobago,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,1.5,1.1,1.1,0.9,0.9,1,1.2,1.1,1,1,1,1,1,1.2,1.1,1.8,2.3,2.5,2.4,2,1.9,1.8,1.6,1.8,2.2,2.6,2.7,3,4.2,4,4.3,4.8,4.6,5.1,5.2,5.2
+Latin America,URY,Uruguay,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,1.3,1.4,1.4,1.2,1.5,1.2,1.2,0.5,0.8,2.1,1.9,1.6,1.6,1.7,1.6,1.7,1.6,1.5,1.6,1.2,1.3,1.7
+Latin America,VEN,Venezuela,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,2.3,1.9,1.5,1,1.3,1.1,1,1.9,0.8,1.2,1.6,1.6,1.8,1.7,1.7,1.3,2.1,2.2,1.7,1.4,1.3,0.9,1.3,1,0.7,0.6,0.6,0.5,0.4,0.3,0.3,0.3,0.1,0.2,0.6,0.5
+Middle East,BHR,Bahrain,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,3.4,2.7,3,2.6,2.6,2.9,1.7,1.4,1.8,1.8,2,2.2,2.1,2,2,1.9,1.7,1.6,1.5,1.5,1.7,2,2.4,2.4,2.3,2.3,2,2.3,2.1,2.2,2.3,2.4,2.4,2.4,2.3,2.3
+Middle East,IRN,Iran,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,1.7,0.8,2.8,2.7,1.3,0.2,3.5,6.3,2.5,2.6,2.6,1.8,1.7,1,2.7,4,3,4.5,3.4,3,3.3,2.6,2.4,2.2,1.6,2.1,2.3,2,1.7,1.9,2.6,2.1,2,2.1,2.1,2
+Middle East,IRQ,Iraq,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.5,0.9,1,1.3,1.4,1.4,1.3,1.6,1.5,1.5
+Middle East,ISR,Israel,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,8,5.6,5.5,3.8,2.4,4,3.5,3.2,2.4,2.4,2.4,2.5,2.5,2.7,3.1,2.7,2.9,2.8,2.8,3.2,2.9,2.9,3.5,3.5,3.5,3.6,3.7,3.8,3.1,3.6,3.6,3.6,3.8,3.5,3.5,3.4
+Middle East,JOR,Jordan,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,5.5,5.4,5.5,5.2,4.8,4.6,4.4,4.7,4.4,4.2,4.1,4.2,3.8,4,3.8,3
+Middle East,KWT,Kuwait,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,4.3,4,4.5,4.3,4,4.1,4.1,4,4,4.8,6,4.8,5.3,3.9,3.5,3.4,4.6,5.5,3.2,3,3.8,3.3,3.7,3.5,3.3,3.2,3,2.9,2.7,2.5,2.5,2.9,3,3.3,3.8,3.9
+Middle East,OMN,Oman,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,0.4,0.4,0.4,0.4,0.5,0.5,0.6,0.6,0.6,0.7,0.7,0.7,0.7,0.7,0.8,0.8,1.1,1.2,1.1,0.9,1.1,1.4,1.6,1.7,1.6,0.8,1.8,1.6,1.5,1.6,1.6,1.5,1.5,1.3,1.3,1.2
+Middle East,QAT,Qatar,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,2.6,2.4,3.3,2.1,1.5,3.2,1.6,2.8,1.8,0.9,1.8,1.8,1.9,1.7,1.9,1.7,1.6,1.7,1.5,1.2,1.5,1.7,1.4,1.6,1.9,2.2,2.3,2.4,2.3,2.4,2.7,2.9,3,3.3,3.5,2.9
+Middle East,SAU,Saudi Arabia,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,1.5,1.4,1.6,1.4,1.1,2.3,3.1,3.2,3.4,3.5,3.8,4.1,4,4.2,4.6,4.6,4.8,4.5,4.4,4.2,4.1,4.3,4.3,4.2,3.9,4,4,4.1,4,4.1,4.5,4.8,4.8,5,4.4,4.4
+Middle East,SYR,Syria,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,0.5,0.6,0.5,0.3,0.2,0.3,0.7,0.2,0.1,0.2,0.1,0.2,0.3,0.6,1,0.7,0.7,0.7,0.6,0.4,0.4,0.4,0.4,0.5,0.5,0.5,0.6,0.5,0.5,0.5,0.5,0.7,0.8,0.9,0.6,0.7
+Middle East,ARE,United Arab Emirates,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,0.6,0.6,0.6,0.5,0.5,0.6,0.6,0.7,0.6,0.6,0.6,0.5,0.7,0.7,0.9,0.9,0.9,0.9,0.9,0.8,0.7,0.7,0.7,0.6,0.6,0.7,0.7,0.7,0.8,1.5,2,2.5,2.7,3,3.3,3.4
+Middle East,YEM,Yemen,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,0.2,0.2,0.1,0.1,0.1,0.2,0.2,0.2,0.3,0.3,0.2,0.2,0.2,0.1,0.3,0.3,0.3,0.4,0.3,0.3,0.2,0.2,0.1,0.1,0.1,0.1,0.1
+North America,CAN,Canada,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,2.2,2.4,1.5,1.8,2.2,2.1,2.4,2.6,2.7,2.4,2.3,2.6,2.5,2.6,2.7,3.1,3.3,3.5,3.5,4,3.8,3.4,3.6,4.3,4.1,3.8,4,4,3.5,2.9,3.7,3.2,3,2.8,2.5,2.3,2.7
+North America,USA,United States,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,2.2,2.2,2,2.4,2.5,2.7,3,3.3,3,3.1,3.1,3.2,3.4,3.6,3.6,4,4.2,4.6,5,5,4.7,5,4.9,4.8,4.9,4.7,4.6,4.4,4.3,4,4,4.2,4.2,4.1,4.1,3.9,3.7
+Oceania,AUS,Australia,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,3.2,2.9,2.5,2.6,2.6,2.9,3.3,4,4.2,4.1,3.7,3.4,3.5,3.8,4.2,4.5,4.4,4.4,4.3,4.8,4.7,4.4,4.6,5.4,5.3,4.6,4.6,4.8,4.4,3.9,3.8,3.5,3.2,2.8,2.7,2.7,2.7
+Oceania,NZL,New Zealand,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,1.3,1.2,1.4,1.9,1.8,1.7,2.4,3.1,2.7,2.3,2.6,2.8,2.7,2.8,3,3.3,2.9,3.4,2.5,3.4,2.6,3.2,3.6,3.9,4,3.7,3.5,3.8,3.6,3.1,3.9,4.1,4.1,4.1,4.2,4.1,4
+Western Europe,AUT,Austria,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,3.1,2.5,2.1,2.5,2.3,2.4,2.7,3.3,3.2,3,3.1,3.4,3.6,3.4,3.6,4,4,4,4,4.3,4.3,4.2,4.3,4.6,4.6,4.3,4.3,4.3,4.3,4.1,3.9,4.2,4.2,4,4.1,4,4
+Western Europe,BEL,Belgium,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,2.2,1.8,1.9,2.1,2.4,2.5,2.6,2.5,2.6,3,3,3.3,2.8,2.9,2.7,3.3,3.7,3.7,3.7,3.4,3.5,3.7,3.6,3.7,3.5,3.8,3.7,3.7,3.5,3.3,3.4,3.6,3.4,3.4,3.4,3.4
+Western Europe,CYP,Cyprus,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,0.4,0.4,0.4,0.5,0.5,0.5,0.5,0.6,0.7,0.7,0.7,0.8,0.7,0.7,1,1.4,1.6,1.5,1.8,1.6,1.8,1.6,1.4,1.5,1.7,1.7,1.7,1.7,1.6,1.6,1.6,1.8,1.6,1.4,1.2,0.9
+Western Europe,DNK,Denmark,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,1.4,1.3,1.4,1.9,2.3,2.3,2.4,2.7,2.6,2.4,2.7,3,3.3,3.2,3.4,3.4,3.7,4,4.2,4,3.6,3.4,3.5,3.8,3.8,3.9,4.4,4.1,3.8,2.8,3.7,3.7,3.4,3.3,3.6,3.6,3.4
+Western Europe,FIN,Finland,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,0.5,0.4,0.4,0.5,0.5,0.5,0.6,0.7,0.7,0.8,0.9,1,1,1.1,1.8,2.4,2.3,2.3,2.4,2.4,2.4,2.2,1.9,2.1,2.3,2.4,2.5,2.7,2.7,2.4,2.2,2.5,2.7,2.3,2.4,2.4,2.7
+Western Europe,FRA,France,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,2.1,1.8,1.7,2,2,2.1,2.3,2.5,2.5,2.5,2.8,2.9,3.2,2.9,2.8,3,3,3.3,3.4,3.3,3.2,3.5,3.6,3.8,3.8,3.5,3.7,3.8,3.9,3.6,3.6,3.8,3.8,3.5,3.7,3.7,3.8
+Western Europe,DEU,Germany,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,3.2,2.2,1.9,2.4,2.4,2.5,2.9,3.2,3.1,3.1,3.4,3.2,3.4,3,2.7,3,2.7,2.9,3.1,3.2,2.9,3,3,3,2.8,2.7,3,3.1,2.8,2.5,2.3,2.4,2.3,2.1,2.1,2.1,2
+Western Europe,GRC,Greece,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,0.7,0.5,0.6,0.6,0.6,1,1.1,1.1,1.1,1.2,1.5,1.2,1.6,1.5,1.5,1.5,1.7,1.9,2.2,1.8,2,2.2,2,2.2,1.8,2.2,2.1,2.3,2.1,2,2.4,2.4,2.2,2,2,1.8
+Western Europe,ISL,Iceland,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Western Europe,IRL,Ireland,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,1.3,1.2,1.6,1.9,1.9,1.9,1.7,1.9,1.5,1.8,1.4,1.3,1.3,1.4,1.8,2.2,2.5,2.7,2.8,2.4,2.3,2.3,2.5,2,1.7,1.6,1.6,1.3,1.2,1.7,2.1,2.2,2.4,2.3,2.2,3.8
+Western Europe,ITA,Italy,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,1.8,1.6,1.4,1.7,1.6,1.7,1.9,2.2,2.4,2.3,2.7,2.7,2.7,2.3,2.4,2.4,2.6,2.9,3,2.9,2.9,2.8,3,3.2,3.2,3,2.9,3,2.9,2.8,2.7,2.7,2.6,2.5,2.5,2.6,2.7
+Western Europe,LUX,Luxembourg,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,2.7,3.4,3.5,3.6,3.6,3.7,3.2,3.4,3.5,3,3.4,2.6,2.8,2.6,2.1,2.1,2.2,2.2,2.2,2.2,1.9
+Western Europe,MLT,Malta,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,,,,,,,,,,,,,,,,,,,,,1.7,0,3.8,2.2,2.5,2.6,2.7,3.2,3.3,4.1,3.7,3.9,4.4,4.2,4.4,5.1
+Western Europe,NLD,Netherlands,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,1.6,1,1,1.3,1.6,1.6,1.9,2.1,2.2,2.3,2.5,2.8,3.1,2.9,2.8,3,3,3.3,3.6,3.7,3.4,3.5,3.4,3.4,3.5,3.5,3.8,3.7,3.8,3.9,3.7,3.6,3.7,3.8,3.7,3.7,3.7
+Western Europe,NOR,Norway,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,3.3,2.9,2.6,2.8,2.9,3,3.2,3.5,3.4,2.8,2.7,2.7,2.7,2.6,2.5,3,3.2,3.6,3.4,3.8,3.1,3.1,3.2,3.2,3.2,3.2,3.1,2.8,3,2.9,2.8,2.5,2.3,2.4,2.3,2.3,1.9
+Western Europe,PRT,Portugal,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,2.6,1.9,2.6,2.8,3.5,2.8,3.2,2.5,2.4,2.7,2.6,2.7,2.3,2,2.5,2.3,2.7,2.9,3.2,2.7,3,3.1,3.3,3.2,3.1,3.3,3.1,3.4,3.1,2.9,2.7,2.9,2.6,2.7,2.8,2.6
+Western Europe,ESP,Spain,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,2.5,1.8,1.6,1.8,2.1,2.5,3,3.3,3.4,3.4,3.6,3.4,3.4,2.7,2.7,3.2,3.2,3.3,3.3,3.6,3.3,3.2,3.2,3.3,3.4,3.1,3.2,3.1,3.2,2.9,2.9,3.1,3.2,3.3,3.4,3.4,3.4
+Western Europe,SWE,Sweden,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,3.2,1.9,2.6,2.9,3.1,3.5,4.3,4.5,4.5,4.5,4.6,4.1,3.8,4.4,5.1,5.5,5.5,6.1,6,6,6.3,5.9,6.1,5.9,5.2,5.6,5.9,5.7,4.7,5.4,5.4,4.9,4.6,4.2,4.1,4.3
+Western Europe,CHE,Switzerland,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,,1.3,2.2,2.5,2.5,2.7,3.4,4,4,4,4.7,4.5,4.6,4.4,4.7,5.8,5.1,5.6,6.1,6.6,6.4,6.2,6.1,6.3,6.9,6.8,7,7,6.9,6.6,6.8,7.2,7.1,6.9,6.8,7,6.9
+Western Europe,GBR,United Kingdom,15,ICT Capital Share,Share of ICT Capital Compensation in GDP,1.9,1.3,1.2,1.5,1.7,1.7,2.1,2.2,2.6,2.7,4.2,2.3,2.3,2.5,2.3,3.6,3.5,4.5,4,3.7,3.4,3.4,3.8,3.6,3.4,3.3,3.2,3.2,2.9,2.5,2.7,2.7,3.1,2.9,3,2.9,2.8
